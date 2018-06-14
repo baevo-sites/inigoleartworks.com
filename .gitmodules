@@ -1,0 +1,3 @@
+[submodule "wp-content/themes/inigoleartworks"]
+	path = wp-content/themes/inigoleartworks
+	url = https://github.com/baevo-sites/inigoleartworks-theme
